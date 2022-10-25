@@ -1,0 +1,6 @@
+{
+    "keywordcheck": ["http://keywordcheck1.40312791.qpc.hal.davecutting.uk/", "http://keywordcheck2.40312791.qpc.hal.davecutting.uk/", "http://keywordcheck3.40312791.qpc.hal.davecutting.uk/"],
+    "numberofkeywords": ["http://numberofkeywords1.40312791.qpc.hal.davecutting.uk/", "http://numberofkeywords2.40312791.qpc.hal.davecutting.uk/", "http://numberofkeywords3.40312791.qpc.hal.davecutting.uk/"],
+    "totalwordcount": ["http://totalwordcount1.40312791.qpc.hal.davecutting.uk/", "http://totalwordcount2.40312791.qpc.hal.davecutting.uk/"],
+    "proxies": ["http://proxyservice1.40312791.qpc.hal.davecutting.uk/", "http://proxyservice2.40312791.qpc.hal.davecutting.uk/"]
+}

@@ -1,0 +1,3 @@
+{
+    "proxies": ["http://proxyservice1.40312791.qpc.hal.davecutting.uk/", "http://proxyservice2.40312791.qpc.hal.davecutting.uk/"]
+}
